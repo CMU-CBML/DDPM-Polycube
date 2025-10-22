@@ -2,7 +2,7 @@
 
 Ⅰ. Overview
 
-1. This guide explains how to use the code in the paper to predict polycube structures using the ddpm-polycube algorithm.[^1]
+1. This guide explains how to use the code in the paper to predict polycube structures using the DDPM-polycube algorithm.[^1]
 
 2. The implementation is mainly in Python and Blender, using Python third-party libraries and Blender's built-in libraries.
 
